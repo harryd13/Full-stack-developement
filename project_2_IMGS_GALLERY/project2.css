@@ -1,0 +1,30 @@
+body {
+  padding-top: 70px;
+}
+.image {
+  width: 100;
+  height: 20px;
+  background-size: cover;
+  background-position: center;
+}
+.thumbnail > img {
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbotron {
+  background: rgb(200, 202, 240);
+  color: rgb(74, 74, 139);
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-inverse {
+  background: rgb(74, 74, 139);
+}
+.navbar-inverse .navbar-brand {
+  color: white;
+}
